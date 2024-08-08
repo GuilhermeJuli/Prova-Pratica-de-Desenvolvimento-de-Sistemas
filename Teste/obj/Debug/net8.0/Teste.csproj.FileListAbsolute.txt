@@ -1,0 +1,15 @@
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/bin/Debug/net8.0/Teste
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/bin/Debug/net8.0/Teste.deps.json
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/bin/Debug/net8.0/Teste.runtimeconfig.json
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/bin/Debug/net8.0/Teste.dll
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/bin/Debug/net8.0/Teste.pdb
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.AssemblyInfoInputs.cache
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.AssemblyInfo.cs
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.csproj.CoreCompileInputs.cache
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.sourcelink.json
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.dll
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/refint/Teste.dll
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.pdb
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/Teste.genruntimeconfig.cache
+/home/taxinha/Área de Trabalho/Prova-Pratica-de-Desenvolvimento-de-Sistemas/Teste/obj/Debug/net8.0/ref/Teste.dll
